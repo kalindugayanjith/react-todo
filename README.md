@@ -46,6 +46,6 @@ inner pages :
 Login 
 Register
 Forget Password
-Home (Todo create and display)
+Home 
 
 
